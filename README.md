@@ -10,7 +10,8 @@ I'm a passionate computer science student at the Indian Institute of Technology,
 ### 💼 Projects
 Here are a few of the exciting projects I've been working on:
 - **[Messaging Service Prototype](https://github.com/MayANKPaTeL2303/Group-Messenger-Messaging-Service-Prototype)**: A real-time chat application with user authentication, group chats.
-- **[Healthcare Appointment System](https://github.com/MayANKPaTeL2303/Healthcare-management-system)**: A full-stack web app for managing healthcare appointments with a focus on clean design and user experience.
+- **[Healthcare Appointment System](https://github.com/MayANKPaTeL2303/Healthcare-management-system)**: A full-stack web app for managing healthcare appointments with a focus on clean design and user experience. 
+- **[Cloud IDE](https://github.com/MayANKPaTeL2303/CloudIDE)**: A Web Application for the cloud-based integrated development environment designed for seamless coding, collaboration, and deployment.
 - **[Network Simulations with NS-3](https://github.com/yourusername/ns3-simulation)**: Network simulation using UDP/TCP flows with RateErrorModel and Packet Delivery Ratio measurements.
 
 ### 🛠️ Tech Stack
