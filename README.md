@@ -3,7 +3,7 @@
 I'm a passionate computer science student at the Indian Institute of Technology, Bhilai. I enjoy learning about and building innovative applications while exploring new technologies, especially in web development, real-time communication, and scalable software systems.
 
 ### Leetcode Profile
-[![](https://leetcard.jacoblin.cool/leetcode?site=cn)](https://leetcode.com/u/mayank1_1/)
+[(![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap))](https://leetcode.com/u/mayank1_1/)
 
 ### 🌱 What I'm Working On
 - Building a **Messaging Service Prototype** using Next.js, Node.js, Socket.io, and MongoDB
