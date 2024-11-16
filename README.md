@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Mayank Patel!
 
-I'm a passionate software engineer currently studying Computer Science at Indian Institute of Technology, Bhilai. I enjoy building innovative applications and exploring new technologies, especially in web development, real-time communication, and scalable software systems. 
+I'm a passionate computer science student at the Indian Institute of Technology, Bhilai. I enjoy learning about and building innovative applications while exploring new technologies, especially in web development, real-time communication, and scalable software systems.
 
 ### 🌱 What I'm Working On
 - Building a **Messaging Service Prototype** using Next.js, Node.js, Socket.io, and MongoDB
-- Developing a **Healthcare Appointment System** using React, Vite, and Tailwind CSS
+- Developing a **Cloud IDE** using React, node libraries and Tailwind CSS
 - Exploring advanced network simulations assignment project with **NS-3**
 
 ### 💼 Projects
