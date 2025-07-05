@@ -11,10 +11,6 @@
     <td>Python, C++, JavaScript, TypeScript, Bash</td>
   </tr>
   <tr>
-    <td>🧠 <strong>AI Tools</strong></td>
-    <td>PyTorch, TensorFlow, Scikit-learn, NLTK, SpaCy</td>
-  </tr>
-  <tr>
     <td>🌐 <strong>Frontend</strong></td>
     <td>React.js, Next.js, Tailwind CSS</td>
   </tr>
@@ -29,6 +25,10 @@
   <tr>
     <td>⚙️ <strong>DevOps & Tools</strong></td>
     <td>Docker, Kubernetes, Git, GitHub, VS Code</td>
+  </tr>
+  <tr>
+    <td>🧠 <strong>DS & Ai</strong></td>
+    <td>PyTorch, TensorFlow, Scikit-learn, NLTK, SpaCy</td>
   </tr>
   <tr>
     <td>🧪 <strong>Testing & Debug</strong></td>
