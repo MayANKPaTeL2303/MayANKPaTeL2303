@@ -47,6 +47,15 @@
 
 ---
 
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayANKPaTeL2303&theme=radical&hide_border=true" />
+</p>
+
+---
+
 ## 🧠 Most Used Languages
 
 <p align="center">
