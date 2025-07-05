@@ -2,21 +2,16 @@
 <h3 align="center">Final Year CSE Undergrad @ IIT Bhilai | Full Stack Developer | Gen AI Enthusiast</h3>
 
 ---
+## 🚀 Tech Stack
 
-## 🚀 I Code With
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="30" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB"/>
-</p>
+```txt
+💻 Languages       : Python, C++, JavaScript, TypeScript, Bash
+🧠 AI Tools        : PyTorch, TensorFlow, Scikit-learn, NLTK, SpaCy
+🌐 Frontend        : React, Next.js, Tailwind CSS
+🔧 Backend         : Node.js, Express, Django, FastAPI, REST, GraphQL
+🛢️  Databases      : MongoDB, MySQL, SQLite
+⚙️ DevOps & Tools  : Docker, Kubernetes, Git, GitHub, VS Code
+🧪 Testing & Debug : Postman, Jupyter Notebook
 
 ---
 
