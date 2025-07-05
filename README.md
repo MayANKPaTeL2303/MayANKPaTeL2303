@@ -19,10 +19,6 @@ I'm a passionate **Computer Science undergraduate** at **IIT Bhilai**, with a de
 - Developed a **multi-LLM comparison platform** with multimodal inputs (text, file).
 - Migrated & optimized a commercial website (cost, performance, and maintainability).
 
-### ☁️ EWS Startup — Web Development Intern (Feb 2024 – Mar 2024)
-- Designed and deployed a **cloud-based IDE** with real-time execution and editing.
-- Ranked in the **top 5%** of interns and received a **Letter of Recommendation**.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -36,7 +32,7 @@ I'm a passionate **Computer Science undergraduate** at **IIT Bhilai**, with a de
 
 ---
 
-## 📚 Notable Projects
+## 📚 Projects
 
 - 🔗 [**Messaging Service Prototype**](https://github.com/MayANKPaTeL2303/Group-Messenger-Messaging-Service-Prototype): Real-time chat with Socket.io + AI suggestions via OpenAI API.
 - 📅 [**Healthcare Appointment System**](https://github.com/MayANKPaTeL2303/Healthcare-management-system): Full-stack medical appointment manager with clean UI.
@@ -47,7 +43,7 @@ I'm a passionate **Computer Science undergraduate** at **IIT Bhilai**, with a de
 
 ## 🏆 Coding Achievements
 
-- **LeetCode**: Solved **600+** problems | [Profile](https://leetcode.com/u/mayank1_1/) | Peak Rating: **1572**
+- **LeetCode**: Solved **650+** problems | [Profile](https://leetcode.com/u/mayank1_1/) | Peak Rating: **1572**
 - **CodeChef**: Ranked **84 Globally** in STARTERS 129 | [Profile](https://www.codechef.com/users/mayankpatel032)
 
 ---
