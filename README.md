@@ -1,26 +1,61 @@
-# 👋 Hi, I'm Mayank Patel!
+# 👋 Hi, I'm Mayank Patel
 
-I'm a passionate computer science student at the Indian Institute of Technology, Bhilai. I enjoy learning about and building innovative applications while exploring new technologies, especially in web development, real-time communication, and scalable software systems.
+I'm a passionate **Computer Science undergraduate** at **IIT Bhilai**, with a deep interest in **web development**, **AI-powered tools**, and **scalable systems**. I love transforming ideas into products and enjoy exploring innovative ways to build with modern technologies.
 
-### 🌱 What I'm Working On
-- Building a **Messaging Service Prototype** using Next.js, Node.js, Socket.io, and MongoDB
-- Developing a **Cloud IDE** using React, node libraries and Tailwind CSS
-- Exploring advanced network simulations assignment project with **NS-3**
+---
 
-### 💼 Projects
-Here are a few of the exciting projects I've been working on:
-- **[Messaging Service Prototype](https://github.com/MayANKPaTeL2303/Group-Messenger-Messaging-Service-Prototype)**: A real-time chat application with user authentication, group chats.
-- **[Healthcare Appointment System](https://github.com/MayANKPaTeL2303/Healthcare-management-system)**: A full-stack web app for managing healthcare appointments with a focus on clean design and user experience. 
-- **[Cloud IDE](https://github.com/MayANKPaTeL2303/CloudIDE)**: A Web Application for the cloud-based integrated development environment designed for seamless coding, collaboration, and deployment.
-- **[Network Simulations with NS-3](https://github.com/yourusername/ns3-simulation)**: Network simulation using UDP/TCP flows with RateErrorModel and Packet Delivery Ratio measurements.
+## 🚀 What I'm Building
 
-### 🛠️ Tech Stack
-- **Frontend:** React.js, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express.js, Socket.io, GraphQL
-- **Database:** MongoDB, MySQL
-- **DevOps & Tools:** Docker, Heroku, Git, GitHub 
+- ⚡ **AI-Powered Letter & Grammar Corrector**: Full-stack NLP platform comparing LLM outputs from OpenAI and similar APIs.
+- 💻 **Cloud IDE**: Real-time web-based coding environment with multi-user collaboration, terminal execution, and seamless UI.
+- 💬 **Group Messenger (Messaging Service Prototype)**: Real-time group chat app with JWT-based authentication and OpenAI-based reply suggestions.
 
-### 📫 How to Reach Me
-- LinkedIn: [Mayank Patel](https://www.linkedin.com/in/mayank-patel-555163253/)
-- Email: mayankpatel032303@gmail.com
+---
 
+## 💼 Work Experience
+
+### 🧠 Mega Forte — Software Developer Intern (Apr 2025 – May 2025)
+- Built a grammar correction + paraphrasing tool using **LLMs, NLTK, and SpaCy**.
+- Developed a **multi-LLM comparison platform** with multimodal inputs (text, file).
+- Migrated & optimized a commercial website (cost, performance, and maintainability).
+
+### ☁️ EWS Startup — Web Development Intern (Feb 2024 – Mar 2024)
+- Designed and deployed a **cloud-based IDE** with real-time execution and editing.
+- Ranked in the **top 5%** of interns and received a **Letter of Recommendation**.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Python, C++, JavaScript/TypeScript, Bash, SQL
+- **Frontend**: React.js, Next.js, Tailwind CSS
+- **Backend**: Node.js, Express.js, Django, GraphQL, REST APIs, WebSockets
+- **Databases**: MongoDB, SQLite, MySQL
+- **AI/ML Tools**: Scikit-learn, TensorFlow, PyTorch, Numpy, Pandas, NetworkX, Spacy, NLTK
+- **DevOps & Tools**: Docker, Git/GitHub, Postman, Lex & Yacc, CUDA
+
+---
+
+## 📚 Notable Projects
+
+- 🔗 [**Messaging Service Prototype**](https://github.com/MayANKPaTeL2303/Group-Messenger-Messaging-Service-Prototype): Real-time chat with Socket.io + AI suggestions via OpenAI API.
+- 📅 [**Healthcare Appointment System**](https://github.com/MayANKPaTeL2303/Healthcare-management-system): Full-stack medical appointment manager with clean UI.
+- 📝 [**Blog Platform**](https://github.com/MayANKPaTeL2303/Blog-App): Django-based CRUD blog system with search and auth.
+- 🧠 [**Metro Station Prediction (ML)**](https://github.com/chetaniitbhilai/ML_Project): GNN + KMeans model to predict station connectivity with 91.4% accuracy.
+
+---
+
+## 🏆 Coding Achievements
+
+- **LeetCode**: Solved **600+** problems | [Profile](https://leetcode.com/u/mayank1_1/) | Peak Rating: **1572**
+- **CodeChef**: Ranked **84 Globally** in STARTERS 129 | [Profile](https://www.codechef.com/users/mayankpatel032)
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 Email: [mayankpatel032303@gmail.com](mailto:mayankpatel032303@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/mayank-patel-555163253](https://www.linkedin.com/in/mayank-patel-555163253/)
+- 🧑‍💻 GitHub: [MayANKPaTeL2303](https://github.com/MayANKPaTeL2303)
+
+---
