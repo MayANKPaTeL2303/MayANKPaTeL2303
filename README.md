@@ -1,57 +1,53 @@
-# 👋 Hi, I'm Mayank Patel
-
-I'm a passionate **Computer Science undergraduate** at **IIT Bhilai**, with a deep interest in **web development**, **AI-powered tools**, and **scalable systems**. I love transforming ideas into products and enjoy exploring innovative ways to build with modern technologies.
-
----
-
-## 🚀 What I'm Building
-
-- ⚡ **AI-Powered Letter & Grammar Corrector**: Full-stack NLP platform comparing LLM outputs from OpenAI and similar APIs.
-- 💻 **Cloud IDE**: Real-time web-based coding environment with multi-user collaboration, terminal execution, and seamless UI.
-- 💬 **Group Messenger (Messaging Service Prototype)**: Real-time group chat app with JWT-based authentication and OpenAI-based reply suggestions.
+<h1 align="center">Hi 👋, I'm Mayank Patel</h1>
+<h3 align="center">Final Year CSE Undergrad @ IIT Bhilai | Full Stack Developer | Gen AI </h3>
 
 ---
 
-## 💼 Work Experience
-
-### 🧠 Mega Forte — Software Developer Intern (Apr 2025 – May 2025)
-- Built a grammar correction + paraphrasing tool using **LLMs, NLTK, and SpaCy**.
-- Developed a **multi-LLM comparison platform** with multimodal inputs (text, file).
-- Migrated & optimized a commercial website (cost, performance, and maintainability).
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages**: Python, C++, JavaScript/TypeScript, Bash, SQL
-- **Frontend**: React.js, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express.js, Django, GraphQL, REST APIs, WebSockets
-- **Databases**: MongoDB, SQLite, MySQL
-- **AI/ML Tools**: Scikit-learn, TensorFlow, PyTorch, Numpy, Pandas, NetworkX, Spacy, NLTK
-- **DevOps & Tools**: Docker, Git/GitHub, Postman, Lex & Yacc, CUDA
+## 🚀 I code with
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+</p>
 
 ---
 
-## 📚 Projects
-
-- 🔗 [**Messaging Service Prototype**](https://github.com/MayANKPaTeL2303/Group-Messenger-Messaging-Service-Prototype): Real-time chat with Socket.io + AI suggestions via OpenAI API.
-- 📅 [**Healthcare Appointment System**](https://github.com/MayANKPaTeL2303/Healthcare-management-system): Full-stack medical appointment manager with clean UI.
-- 📝 [**Blog Platform**](https://github.com/MayANKPaTeL2303/Blog-App): Django-based CRUD blog system with search and auth.
-- 🧠 [**Metro Station Prediction (ML)**](https://github.com/chetaniitbhilai/ML_Project): GNN + KMeans model to predict station connectivity with 91.4% accuracy.
-
----
-
-## 🏆 Coding Achievements
-
-- **LeetCode**: Solved **650+** problems | [Profile](https://leetcode.com/u/mayank1_1/) | Peak Rating: **1572**
-- **CodeChef**: Ranked **84 Globally** in STARTERS 129 | [Profile](https://www.codechef.com/users/mayankpatel032)
+## 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MayANKPaTeL2303&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayANKPaTeL2303&layout=compact&theme=radical" height="180"/>
+</p>
 
 ---
 
-## 📫 Let's Connect!
-
-- 📧 Email: [mayankpatel032303@gmail.com](mailto:mayankpatel032303@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/mayank-patel-555163253](https://www.linkedin.com/in/mayank-patel-555163253/)
-- 🧑‍💻 GitHub: [MayANKPaTeL2303](https://github.com/MayANKPaTeL2303)
+## 🧠 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayANKPaTeL2303&langs_count=8&layout=compact&theme=dark"/>
+</p>
 
 ---
+
+## 🧮 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MayANKPaTeL2303&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/>
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayank-patel-555163253/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mayankpatel032303@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
