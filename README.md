@@ -2,16 +2,39 @@
 <h3 align="center">Final Year CSE Undergrad @ IIT Bhilai | Full Stack Developer | Gen AI Enthusiast</h3>
 
 ---
-## 🚀 Tech Stack
 
-```txt
-💻 Languages       : Python, C++, JavaScript, TypeScript, Bash
-🧠 AI Tools        : PyTorch, TensorFlow, Scikit-learn, NLTK, SpaCy
-🌐 Frontend        : React, Next.js, Tailwind CSS
-🔧 Backend         : Node.js, Express, Django, FastAPI, REST, GraphQL
-🛢️  Databases      : MongoDB, MySQL, SQLite
-⚙️ DevOps & Tools  : Docker, Kubernetes, Git, GitHub, VS Code
-🧪 Testing & Debug : Postman, Jupyter Notebook
+<h2>🚀 Tech Stack</h2>
+
+<table>
+  <tr>
+    <td>💻 <strong>Languages</strong></td>
+    <td>Python, C++, JavaScript, TypeScript, Bash</td>
+  </tr>
+  <tr>
+    <td>🧠 <strong>AI Tools</strong></td>
+    <td>PyTorch, TensorFlow, Scikit-learn, NLTK, SpaCy</td>
+  </tr>
+  <tr>
+    <td>🌐 <strong>Frontend</strong></td>
+    <td>React.js, Next.js, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td>🔧 <strong>Backend</strong></td>
+    <td>Node.js, Express.js, Django, FastAPI, REST, GraphQL</td>
+  </tr>
+  <tr>
+    <td>🛢️ <strong>Databases</strong></td>
+    <td>MongoDB, MySQL, SQLite</td>
+  </tr>
+  <tr>
+    <td>⚙️ <strong>DevOps & Tools</strong></td>
+    <td>Docker, Kubernetes, Git, GitHub, VS Code</td>
+  </tr>
+  <tr>
+    <td>🧪 <strong>Testing & Debug</strong></td>
+    <td>Postman, Jupyter Notebook</td>
+  </tr>
+</table>
 
 ---
 
