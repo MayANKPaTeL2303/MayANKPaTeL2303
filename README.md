@@ -74,11 +74,15 @@
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayank-patel-555163253/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mayankpatel032303@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<p align="center">  
+  <a href="https://www.linkedin.com/in/mayank-patel-555163253/" target="_blank">  
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>  
+  </a>  
+  <a href="mailto:mayankpatel032303@gmail.com">  
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>  
+  </a>  
+  <a href="https://mayankpatel2303.github.io/" target="_blank">  
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio"/>  
   </a>
 </p>
+
