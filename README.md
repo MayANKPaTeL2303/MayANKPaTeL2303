@@ -28,11 +28,7 @@
   </tr>
   <tr>
     <td>🧠 <strong>DS & Ai</strong></td>
-    <td>PyTorch, TensorFlow, Scikit-learn, NLTK, SpaCy</td>
-  </tr>
-  <tr>
-    <td>🧪 <strong>Testing & Debug</strong></td>
-    <td>Postman, Jupyter Notebook</td>
+    <td>LangChain, LangGraph, PyTorch, TensorFlow, Scikit-learn, NLTK, SpaCy</td>
   </tr>
 </table>
 
@@ -56,7 +52,7 @@
 
 ---
 
-## 🧠 Most Used Languages
+##  Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayANKPaTeL2303&langs_count=6&layout=compact&theme=dark" width="60%"/>
@@ -64,7 +60,7 @@
 
 ---
 
-## 🧮 Visitor Count
+##  Visitor Count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MayANKPaTeL2303&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -72,7 +68,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">  
   <a href="https://www.linkedin.com/in/mayank-patel-555163253/" target="_blank">  
