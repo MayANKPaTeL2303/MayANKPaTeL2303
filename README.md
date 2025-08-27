@@ -3,15 +3,15 @@
 
 ---
 
-<h2>🚀 Tech Stack</h2>
+<h2> Tech Stack</h2>
 
 <table>
   <tr>
-    <td>💻 <strong>Languages</strong></td>
+    <td><strong>Languages</strong></td>
     <td>Python, C++, JavaScript, TypeScript, Bash</td>
   </tr>
   <tr>
-    <td>🌐 <strong>Frontend</strong></td>
+    <td> <strong>Frontend</strong></td>
     <td>React.js, Next.js, Tailwind CSS</td>
   </tr>
   <tr>
@@ -19,22 +19,22 @@
     <td>Node.js, Express.js, Django, FastAPI, REST, GraphQL</td>
   </tr>
   <tr>
-    <td>🛢️ <strong>Databases</strong></td>
+    <td> <strong>Databases</strong></td>
     <td>MongoDB, MySQL, SQLite</td>
   </tr>
   <tr>
-    <td>⚙️ <strong>DevOps & Tools</strong></td>
+    <td> <strong>DevOps & Tools</strong></td>
     <td>Docker, Kubernetes, Git, GitHub, VS Code</td>
   </tr>
   <tr>
-    <td>🧠 <strong>DS & Ai</strong></td>
+    <td> <strong>DS & Ai</strong></td>
     <td>LangChain, LangGraph, PyTorch, TensorFlow, Scikit-learn, NLTK, SpaCy</td>
   </tr>
 </table>
 
 ---
 
-## 📊 My GitHub Stats
+##  My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MayANKPaTeL2303&show_icons=true&theme=radical&hide_title=true" width="45%"/>
@@ -44,7 +44,7 @@
 ---
 
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayANKPaTeL2303&theme=radical&hide_border=true" />
