@@ -15,7 +15,7 @@
     <td>React.js, Next.js, Tailwind CSS</td>
   </tr>
   <tr>
-    <td>🔧 <strong>Backend</strong></td>
+    <td> <strong>Backend</strong></td>
     <td>Node.js, Express.js, Django, FastAPI, REST, GraphQL</td>
   </tr>
   <tr>
