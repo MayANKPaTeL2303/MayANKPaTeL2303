@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mayank Patel</h1>
-<h3 align="center">Final Year CSE Undergrad @ IIT Bhilai | Full Stack Developer | Gen AI Enthusiast</h3>
+<h1 align="center">Hi, I'm Mayank Patel</h1>
+<h3 align="center">Final Year CSE Undergrad @ IIT Bhilai | Full Stack | Gen AI </h3>
 
 ---
 
