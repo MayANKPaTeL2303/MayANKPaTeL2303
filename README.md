@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td> <strong>DevOps & Tools</strong></td>
-    <td>Docker, Kubernetes, Git, GitHub, VS Code</td>
+    <td>Docker, Git, GitHub, VS Code</td>
   </tr>
   <tr>
     <td> <strong>AI/ML</strong></td>
