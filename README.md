@@ -27,8 +27,9 @@
     <td>Docker, Kubernetes, Git, GitHub, VS Code</td>
   </tr>
   <tr>
-    <td> <strong>DS & Ai</strong></td>
-    <td>LangChain, LangGraph, PyTorch, TensorFlow, Scikit-learn, NLTK, SpaCy</td>
+    <td> <strong>AI/ML</strong></td>
+    <td>LangChain, LangGraph, TensorFlow, Scikit-learn, NLTK</td>
+    
   </tr>
 </table>
 
